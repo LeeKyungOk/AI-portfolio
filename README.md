@@ -40,8 +40,8 @@
 8. **이미지 변환 프로젝트**: https://github.com/LeeKyungOk/image-conversion-project<br>
 💻딥러닝 모델을 사용한 이미지 변환 프로젝트.
 
-##연락처
-추가 정보가 필요하시면 sunnynhoya@gmail.com으로 연락해 주세요.
+## 연락처
+추가 정보가 필요하시면 [leekyungok2023@gmail.com](mailto:leekyungok2023@gmail.com)으로 연락해 주세요.
 
 ---------
 
@@ -90,5 +90,5 @@ This portfolio showcases various projects demonstrating my skills in data analys
    💻An image conversion project using deep learning models.
 
 ## Contact
-For more information, please contact me at [your_email@example.com](mailto:your_email@example.com).
+For more information, please contact me at [leekyungok2023@gmail.com](mailto:leekyungok2023@gmail.com).
 
